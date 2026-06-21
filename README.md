@@ -465,4 +465,4 @@ Potential areas for enhancement:
 
 ## License
 
-This project is intended for academic, learning, and portfolio purposes. Add a license here if you plan to make the repository public.
+This project is intended for academic, learning, and portfolio purposes. 
